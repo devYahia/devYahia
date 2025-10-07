@@ -6,13 +6,9 @@
 
 ## 🚀 About Me
 
-I'm a **Communication & Computer Engineering** student at **Mansoura University (MU)**, passionate about building robust backend systems and exploring the intersection of AI and Web3 technologies.
+I'm a passionate **Backend Developer** and **Engineering Student** at Mansoura University, specializing in Computer and Communications Engineering (CCE). My journey in technology spans from system administration and networking to building robust backend systems and blockchain applications.
 
-- 🔭 Currently working on **AI-powered Telegram bots** and **blockchain automation tools**
-- 🌱 Diving deep into **Backend Development** with modern technologies
-- 💡 Building projects with **Node.js**, **PostgreSQL**, **Redis**, and **MongoDB**
-- 🤖 Developing **AI agents** and **automation scripts**
-- 🔐 Background in **Cybersecurity fundamentals** and **Linux system administration**
+Currently focused on **Backend Development** with expertise in **Node.js**, **PostgreSQL**, and **Redis**. I specialize in building **high-performance trading bots**, **database architecture**, and **scalable backend systems**. My strong foundation in **Linux system administration**, **Bash scripting**, and **VPS management** gives me a unique perspective on building production-ready applications that can handle thousands of concurrent users.
 
 ## 🛠️ Tech Stack
 
@@ -40,12 +36,12 @@ I'm a **Communication & Computer Engineering** student at **Mansoura University 
 ## 🎯 Current Focus
 
 ```javascript
-const yahia = {
-    currentFocus: "Backend Development",
-    learning: ["Advanced Node.js", "System Design", "Database Optimization"],
-    building: ["AI Telegram Bots", "Web3 Tools", "Automation Scripts"],
-    interests: ["Cybersecurity", "Blockchain", "AI/ML"],
-    goal: "Creating scalable and efficient backend systems"
+const currentFocus = {
+  backend: ["Node.js", "Express.js", "PostgreSQL", "Redis"],
+  architecture: ["Database Design", "Connection Pooling", "Caching Systems"],
+  blockchain: ["Telegram Bots", "Trading Systems", "Monad Testnet"],
+  infrastructure: ["Docker", "Production Monitoring", "Performance Optimization"],
+  learning: ["Microservices", "System Design", "High-Concurrency Systems"]
 };
 ```
 
@@ -59,22 +55,28 @@ const yahia = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahia-zakria&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-## 🔥 Recent Projects
+## 🚀 Recent Projects
 
-### 🤖 AI-Powered Telegram Bot
-- **Tech Stack:** Node.js, PostgreSQL, Redis, Docker
-- **Features:** Advanced state management, database optimization, AI integration
-- **Highlights:** Scalable architecture with comprehensive error handling
+### 🤖 Area51 Trading Bot
+**Enterprise-Grade Telegram Trading Bot for Monad Testnet**
+- **Backend Architecture**: Node.js with Express.js, PostgreSQL connection pooling (25 connections), Redis caching
+- **Database Design**: Complete schema with users, transactions, portfolio tracking, access control, and monitoring tables
+- **Performance**: Optimized for 10,000+ concurrent users with middleware for rate limiting, authentication, and error handling
+- **Infrastructure**: Docker containerization, health endpoints, metrics collection, and automated backup systems
+- **Security**: Encrypted wallet management, access code system, and comprehensive input validation
 
-### 🌐 Web3 Automation Tools
-- **Tech Stack:** JavaScript, Web3.js, Telegram API
-- **Purpose:** Blockchain interaction and automation
-- **Focus:** Smart contract integration and real-time data processing
+### 🏗️ Database Architecture & Optimization
+**High-Performance Database Systems**
+- **PostgreSQL**: Advanced schema design with JSONB, indexes, and performance optimization
+- **Connection Pooling**: Configured for high-concurrency applications
+- **Caching Layer**: Redis integration for session management and data caching
+- **Monitoring**: Real-time performance metrics and health checks
 
-### 🏦 Banking System Interface
-- **Tech Stack:** Next.js, TypeScript, Modern UI/UX
-- **Features:** Secure transaction handling, responsive design
-- **Achievement:** Full-stack implementation with modern practices
+### 🔧 Backend Infrastructure
+**Production-Ready System Administration**
+- **Middleware Systems**: Custom authentication, rate limiting, and error handling
+- **Monitoring Stack**: Prometheus metrics, health endpoints, and logging systems
+- **DevOps**: Docker deployment, automated migrations, and backup strategies
 
 ## 🎓 Education & Background
 
@@ -87,11 +89,11 @@ const yahia = {
 - **Backend Development** (Node.js, Database Design, API Development)
 - **DevOps Basics** (VPS Management, Docker, System Administration)
 
-## 🌟 What Drives Me
+## 💭 What Drives Me
 
-> "Building efficient, scalable systems that solve real-world problems while continuously learning and adapting to new technologies."
+> *"Building robust backend systems that can scale and perform under pressure is both an art and a science. I'm passionate about creating infrastructure that powers seamless user experiences while handling complex business logic behind the scenes."*
 
-I believe in the power of **clean code**, **robust architecture**, and **continuous learning**. My journey from cybersecurity fundamentals to backend development has given me a unique perspective on building secure and efficient systems.
+I believe in the power of **well-architected backend systems** and **performance optimization** to create exceptional user experiences. Whether it's designing database schemas that can handle millions of transactions or building middleware that ensures security and reliability, I'm driven by the challenge of creating systems that are both powerful and elegant.
 
 ## 📫 Let's Connect!
 
