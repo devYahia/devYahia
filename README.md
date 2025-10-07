@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Backend+Developer+%7C+AI+Enthusiast;Communication+%26+Computer+Engineering;Building+Scalable+Systems;Exploring+Web3+%26+Blockchain" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+##  About Me
 
 I'm a passionate **Backend Developer** and **Engineering Student** at Mansoura University, specializing in Computer and Communications Engineering (CCE). My journey in technology spans from system administration and networking to building robust backend systems and blockchain applications.
 
