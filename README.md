@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Computer & Communications Engineering (CCE)** student at **Mansoura University**, passionate about backend development.
+I'm a **Communications & Computer Engineering (CCE)** student at **Mansoura University**, passionate about backend development.
 
 I believe in **learning by doing** — so while I'm still studying the fundamentals, I build real projects to understand how things work in practice. My main interests are **Fintech solutions**, **Telegram Bots**, and **TON Blockchain** integrations.
 
@@ -72,16 +72,7 @@ I believe in **learning by doing** — so while I'm still studying the fundament
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devYahia&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" alt="Yahia's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devYahia&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</div>
-
----
-
-### 📫 Connect
+###  Connect
 
 <a href="https://www.linkedin.com/in/yahia-zakria-911149265/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -89,5 +80,3 @@ I believe in **learning by doing** — so while I'm still studying the fundament
 <a href="mailto:mrzak051@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-</CodeContent>
-<parameter name="Complexity">4
