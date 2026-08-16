@@ -84,7 +84,7 @@ Backend engineer handling the speech pipeline integration (speech-to-text and te
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devYahia&show_icons=true&theme=tokyonight_duo&hide_border=true&border_radius=0&card_width=400" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=devYahia&theme=tokyonight_duo&hide_border=true&border_radius=0&card_width=400" alt="GitHub Streak" />
 
 <br/>
 
