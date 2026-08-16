@@ -15,7 +15,7 @@
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=8b949e&center=true&vCenter=true&multiline=false&width=600&height=30&lines=Building+production+systems+that+handle+real+users+and+real+money;From+payment+pipelines+to+container+orchestration;Node.js+%7C+NestJS+%7C+PostgreSQL+%7C+Docker+%7C+AWS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=8b949e&center=true&vCenter=true&multiline=false&width=800&height=30&lines=Building+scalable+production+backend+systems;From+payment+pipelines+to+container+orchestration;Node.js+%7C+NestJS+%7C+PostgreSQL+%7C+Docker+%7C+AWS" alt="Typing SVG" />
 </a>
 
 </div>
@@ -84,7 +84,7 @@ Backend engineer handling the speech pipeline integration (speech-to-text and te
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=devYahia&theme=tokyonight_duo&hide_border=true&border_radius=0&card_width=400" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=devYahia&show_icons=true&theme=tokyonight_duo&hide_border=true&border_radius=0&card_width=400" alt="GitHub Stats" />
 
 <br/>
 
