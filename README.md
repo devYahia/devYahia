@@ -8,29 +8,19 @@
 
 ### About
 
-I am a Software Engineer focused on building robust products and reliable systems. I care deeply about end-to-end execution: designing clean architectures, building resilient services, and taking systems from initial design through to production deployment.
+I'm a software engineer who builds. I spend my time taking ideas from zero to working software, learning with intent, and trying to make things better than I found them.
 
-My focus centers on practical engineering: clear system boundaries, predictable data flow, failure recovery, and building maintainable software that scales with real product needs.
-
----
-
-### Engineering Toolkit
-
-- **Languages & Runtimes:** TypeScript, JavaScript, Node.js
-- **Backend & Frameworks:** NestJS, Express, Next.js, REST APIs, Microservices
-- **Databases & State:** PostgreSQL, MongoDB, Prisma ORM, Redis
-- **Infrastructure & Cloud:** Docker, Linux, Nginx, AWS, Google Cloud Platform (GCP), CI/CD pipelines
+Most of my work is around Node.js, TypeScript, and modern backend infrastructure - designing databases, writing clean APIs, and shipping products that actually work.
 
 ---
 
-### Core Areas of Focus
+### Tech
 
-- **Scalable Backend Architectures:** Building robust APIs with strong data validation, structured error handling, background queues, and idempotent transactions.
-- **Product & System Engineering:** Designing and deploying complete products with clean separation between business logic, data persistence, and infrastructure.
-- **Containerization & Deployment:** Hardened Docker environments, reverse proxy configurations, and automated deployment setups.
+- **Languages:** TypeScript, JavaScript
+- **Backend:** Node.js, NestJS, Express, Next.js
+- **Data:** PostgreSQL, MongoDB, Prisma, Redis
+- **Infra:** Docker, Linux, Nginx, AWS, GCP
 
 ---
 
-<div align="center">
-<sub>Open to software engineering opportunities and impactful product development.</sub>
-</div>
+<sub>Always building. Reach out if you want to collaborate.</sub>
