@@ -8,9 +8,9 @@
 
 ### About
 
-I'm a software engineer who builds. I spend my time taking ideas from zero to working software, learning with intent, and trying to make things better than I found them.
+I'm a software engineer who builds. I spend my time taking ideas to working software, learning with intent, and trying to make things better than I found them.
 
-Most of my work is around Node.js, TypeScript, and modern backend infrastructure - designing databases, writing clean APIs, and shipping products that actually work.
+Most of my work is around Node.js and TypeScript - building APIs, designing databases, and shipping products that work.
 
 ---
 
