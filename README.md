@@ -19,7 +19,7 @@ Most of my work is around Node.js and TypeScript - building APIs, designing data
 ### Tech
 
 - **Languages:** TypeScript, JavaScript
-- **Backend:** Node.js, NestJS, Express, Next.js
+- **Backend:** Node.js, NestJS, Express
 - **Data:** PostgreSQL, MongoDB, Prisma, Redis
 - **Infra:** Docker, Linux, Nginx, AWS, GCP
 
