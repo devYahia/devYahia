@@ -2,7 +2,9 @@
 
 **Just a builder.**
 
-[Portfolio](https://yahia.website) • [LinkedIn](https://www.linkedin.com/in/yahiamzakaria/) • [Email](mailto:devyahiazakaria@gmail.com)
+• [Portfolio](https://yahia.website) 
+• [LinkedIn](https://www.linkedin.com/in/yahiamzakaria/) 
+• [Email](mailto:devyahiazakaria@gmail.com)
 
 ---
 
